@@ -17,7 +17,7 @@
        #   #
        #####</pre>
        
-7. Create a anagram(any) of a given string.
+7. Create an anagram(any) of a given string.
 8. Check if given string is a palindrome.
 9. Evalute the equation string, eg : "3 + 6" should output 9.
 10. Create a function to remove all negetive elements from the list.
